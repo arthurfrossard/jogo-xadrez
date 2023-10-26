@@ -27,5 +27,4 @@ public class PartidaXadrez {
         tabuleiro.lugarDaPeca(new Rei(tabuleiro, Cor.PRETA), new Posicao(0, 4));
         tabuleiro.lugarDaPeca(new Rei(tabuleiro, Cor.BRANCA), new Posicao(7, 4));
     }
-
 }
